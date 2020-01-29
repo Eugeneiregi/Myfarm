@@ -1,0 +1,44 @@
+h2{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 100px;
+    flex-direction: column;
+    color: green;
+    justify-content: center;
+    text-overflow: clip;
+    text-decoration: lawngreen;
+    text-decoration-line: underline;
+    padding-bottom: 15px;
+}
+body{
+    background-image: url("https://bit.ly/2U2ZlSg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1570px;
+}
+#Aboutus{
+    font-size: 20px;
+    color: blanchedalmond;
+}
+h3{
+    font-size: 40px;
+    text-transform: capitalize;
+    text-align: center;
+    text-justify: newspaper;
+}
+.farm{
+    font-size: 20px;
+    color: blanchedalmond;
+
+}
+.farmer{
+    font-size: 20px;
+    color: blanchedalmond;
+}
+footer{
+    background-color: chartreuse;
+    text-align: center;
+    font-style: italic;
+    flex-direction: column;
+    padding: 10px;
+}
