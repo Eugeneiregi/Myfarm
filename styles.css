@@ -8,7 +8,7 @@ h2{
     text-overflow: clip;
     text-decoration: lawngreen;
     text-decoration-line: underline;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
 }
 body{
     background-image: url("https://bit.ly/2U2ZlSg");
@@ -41,4 +41,9 @@ footer{
     font-style: italic;
     flex-direction: column;
     padding: 10px;
+}
+.create{
+    background-attachment: fixed;
+    background-color: lightgreen;
+    padding-top:0;
 }
