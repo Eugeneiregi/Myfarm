@@ -93,12 +93,12 @@ body{
   }
   nav>ul>li>a{
       justify-content: space-between;
-      text-transform: uppercase;
+      text-transform: capitalize;
   
   }
   nav>ul>li>a:hover{
       box-shadow: blue;
       color:white;
-      text-decoration:none;
+      /* text-decoration:none; */
       background-color:black
   }
