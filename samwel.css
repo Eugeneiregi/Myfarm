@@ -1,0 +1,37 @@
+.container{
+    background-image: linear-gradient(rgba( 0, 0, 0, 0.781), rgba( 0, 0, 0, 0.788)),url("https://bit.ly/37HS3XK");
+    height: 900px;
+    color: darkblue;
+}
+.farm{
+    float: center;
+    font-size: 30px;
+    color: white;
+}
+nav{
+    margin: auto;
+    padding: 10px;
+    margin-right: 0cm;
+    font-size: 30px;
+}
+nav>ul{
+    text-align: right;
+
+}
+ul>li{
+    display:inline-block;
+}
+nav>ul>li{
+    text-align: right;
+    list-style: none;
+}
+nav>ul>a{
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-weight: bold;
+    font-size: 14px;
+}
+.diseases{
+    font-size: 30px;
+    color: white;
+}
