@@ -1,0 +1,77 @@
+body{
+
+    background-image: url("https://bit.ly/312eep6");
+
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+  }
+  #contact-us{
+      color:green;
+      font-size: x-large;
+      text-align: center; 
+    }
+    input[type=text], select, textarea {
+      width: 100%;
+      padding: 12px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      box-sizing: border-box;
+      margin-top: 6px;
+      margin-bottom: 16px;
+      resize: vertical;
+    }
+    input[type=submit] {
+      background-color:yellowgreen;
+      color: white;
+      padding: 12px 20px;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    input[type=submit]:hover {
+      background-color: green;
+    }
+    .container {
+      border-radius: 5px;
+      background-color: green;
+      padding: 20px;
+    }
+    .fa {
+      padding: 50px;
+      font-size: 50px;
+      width: 50px;
+      text-align: center;
+      text-decoration: none;
+      margin: 10px 5px;
+      border-radius: 50%;
+    }
+    .fa:hover {
+        opacity: 0.5;
+    }
+    .fa-facebook {
+      background: #3B5998;
+      color: white;
+    }
+    .fa-twitter {
+      background: #55ACEE;
+      color: white;
+    }
+    .fa-instagram {
+      background: #125688;
+      color: white;
+    }
+    .fa-skype {
+      background: #00aff0;
+      color: white;
+    }  
+    .footer {
+      padding: 10px;
+      text-align: center;
+      background: yellowgreen;
+    }
+    .a{
+      text-align: center;
+      color:white;
+      font-size: x-large;
+    }
