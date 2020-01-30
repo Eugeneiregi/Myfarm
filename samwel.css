@@ -39,7 +39,7 @@ nav{
     margin: auto;
     padding: 10px;
     margin-right: 0cm;
-    position: fixed;
+    /* position: fixed; */
 }
 nav>ul{
     text-align: right;
