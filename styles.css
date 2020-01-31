@@ -124,9 +124,9 @@ height: 100%;
     /* position: fixed; */
 }
 nav>ul{
-    text-align: right;
-    float: right;
-    text-decoration: none;
+  text-align: right;
+  float: right;
+  text-decoration: none;
 }
 ul>li{
         display: inline-block;

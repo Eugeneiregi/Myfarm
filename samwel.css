@@ -1,6 +1,6 @@
 .container{
     background-image: linear-gradient(rgba( 0, 0, 0, 0.781), rgba( 0, 0, 0, 0.788)),url("https://bit.ly/37HS3XK");
-    height: 900px;
+    height:600px;
     color: darkblue;
 }
 .farm{
@@ -36,31 +36,6 @@ nav>ul>a{
     font-size: 30px;
     color: white;
 }
-nav{
-    margin: auto;
-    padding: 10px;
-    margin-right: 0cm;
-    /* position: fixed; */
-}
-nav>ul{
-    text-align: right;
-    float: right;
-}
-ul>li{
-        display: inline-block;
-        text-align:right; 
-        font-size: 30px;
-        margin-right: 10px;
-}
-nav>ul>li>a{
-    justify-content: space-between;
-    text-transform: capitalize;
-    text-decoration: none;
-
-}
-nav>ul>li>a:hover{
-    box-shadow: blue;
-    color:white;
-    /* text-decoration:none; */
-    background-color:black
+.samwel{
+    justify-content: center;
 }
