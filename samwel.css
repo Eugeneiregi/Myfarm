@@ -7,6 +7,7 @@
     float: center;
     font-size: 30px;
     color: white;
+    text-decoration: none;
 }
 nav{
     margin: auto;
@@ -54,6 +55,7 @@ ul>li{
 nav>ul>li>a{
     justify-content: space-between;
     text-transform: capitalize;
+    text-decoration: none;
 
 }
 nav>ul>li>a:hover{

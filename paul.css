@@ -23,6 +23,7 @@ ul>li{
 nav>ul>li>a{
     justify-content: space-between;
     text-transform: uppercase;
+    text-decoration: none;
 
 }
 nav>ul>li>a:hover{
