@@ -26,11 +26,11 @@ nav>ul>li{
     text-align: right;
     list-style: none;
 }
-nav>ul>a{
+nav>ul>li>a{
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 28px;
 }
 .diseases{
     font-size: 30px;
