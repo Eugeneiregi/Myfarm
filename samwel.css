@@ -1,6 +1,6 @@
 .container{
     background-image: linear-gradient(rgba( 0, 0, 0, 0.781), rgba( 0, 0, 0, 0.788)),url("https://bit.ly/37HS3XK");
-    height: 900px;
+    height:600px;
     color: darkblue;
 }
 .farm{
@@ -36,5 +36,5 @@ nav>ul>a{
     color: white;
 }
 .samwel{
-    float:center;
+    justify-content: center;
 }
