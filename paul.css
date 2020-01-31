@@ -8,7 +8,7 @@ nav{
     margin: auto;
     padding: 10px;
     margin-right: 0cm;
-    position: fixed;
+    text-decoration: none;
 }
 nav>ul{
     text-align: right;
