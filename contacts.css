@@ -32,11 +32,15 @@ body{
     input[type=submit]:hover {
       background-color: green;
     }
-    .container {
+    .containers {
       border-radius: 5px;
       background-color: green;
       padding: 20px;
-    }
+    }nav>ul{
+      text-align: right;
+      float: right;
+      text-decoration: none;
+  }
     .fa {
       padding: 50px;
       font-size: 50px;
@@ -70,7 +74,7 @@ body{
       text-align: center;
       background: yellowgreen;
     }
-    .a{
+    .bout{
       text-align: center;
       color:white;
       font-size: x-large;
