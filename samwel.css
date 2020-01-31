@@ -1,4 +1,4 @@
-.container{
+.containers{
     background-image: linear-gradient(rgba( 0, 0, 0, 0.781), rgba( 0, 0, 0, 0.788)),url("https://bit.ly/37HS3XK");
     height:600px;
     color: darkblue;
@@ -26,11 +26,11 @@ nav>ul>li{
     text-align: right;
     list-style: none;
 }
-nav>ul>a{
+nav>ul>li>a{
     text-decoration: none;
     letter-spacing: 3px;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 28px;
 }
 .diseases{
     font-size: 30px;
